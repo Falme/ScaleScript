@@ -8,7 +8,7 @@ Arquivo em Javascript para escalonar um projeto feito em HTML.
 
 -Chame o ScaleScript.js no arquivo principal de HTML
 
-Ex : <script type="text/javascript" src="/dir/to/folder/ScaleScript.js"></script>
+Ex : &lt;script type="text/javascript" src="/dir/to/folder/ScaleScript.js"></script>
 
 -Chame o Init do ScaleScript : 
 
