@@ -32,3 +32,7 @@ A função resizeInit() recebem 4 argumentos :
 no final, esta função seria estruturada desta forma : 
 
 resizeInit(Width,Height, Limitless,Moodle);
+
+
+# Demo
+http://falme.com.br/ScaleScript/
